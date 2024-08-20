@@ -1,6 +1,5 @@
-## Welcome to My GitHub Profile
+### Hi i'm Francisco ✋
 I am a computer science undergraduate student at Pontificia Universidad Católica de Chile 🇨🇱
-
 #### Tools and Technologies  🧠
 
 <a href="https://code.visualstudio.com/" target="_blank">
