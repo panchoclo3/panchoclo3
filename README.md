@@ -1,12 +1,6 @@
 ## Welcome to My GitHub Profile
 I am a computer science undergraduate student at Pontificia Universidad Católica de Chile 🇨🇱
 
-
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=panchoclo3&show_icons=true&theme=midnight-purple">
-    <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=panchoclo3&show_icons=true&theme=midnight-purple">
-</picture>
-
 #### Tools and Technologies  🧠
 
 <a href="https://code.visualstudio.com/" target="_blank">
